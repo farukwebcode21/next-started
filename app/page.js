@@ -1,13 +1,13 @@
-import React from "react";
+import styles from './page.module.css'
 
 const Home = () => {
   return (
-    <section className="py-24">
-      <div className="container">
-        <h1 className="text-3xl font-bold">NextJs 14 Started kit</h1>
+    <section className='py-24'>
+      <div className='container'>
+        <h1 className={styles.title}>NextJs 14 Started kit</h1>
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Home;
+export default Home
