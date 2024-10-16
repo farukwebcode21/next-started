@@ -1,6 +1,7 @@
 import localFont from 'next/font/local'
 import './globals.css'
-import Link from 'next/link'
+import Header from '@/components/layout/header'
+import Footer from './components/layout/footer'
 
 const geistSans = localFont({
   src: './fonts/GeistVF.woff',
@@ -24,25 +25,9 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <header className='bg-gray-200 p-4'>
-          <nav>
-            <ul className='flex justify-between'>
-              <li>
-                <Link href={'/'}>Home</Link>
-              </li>
-              <li>
-                <Link href={'/about'}>About</Link>
-              </li>
-              <li>
-                <Link href={'/contact'}>Contact</Link>
-              </li>
-            </ul>
-          </nav>
-        </header>
+        <Header />
         <main className='h-screen'>{children}</main>
-        <footer className='bg-gray-600 text-center'>
-          <p>Footer</p>
-        </footer>
+        <Footer />
       </body>
     </html>
   )
