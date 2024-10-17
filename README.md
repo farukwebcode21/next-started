@@ -1,3 +1,5 @@
+## Learning Path Next.js
+
 - [x] Task List under 
 - [x] 2.1 Create a NextJs app
 - [x] 2.2 Styling
@@ -52,18 +54,5 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-
-### Learning Path Next.js
-
-1.  2.1 Create a NextJs app
-2.  2.2 Styling
-3.  2.3 Deploy your app
-4.  3.1 Pages and layouts
-5.  3.2 Navigating between pages //Done
-6.  3.3 Dynamic routes
-7.  3.4 Route groups
-8.  3.5 Suspense and streaming
-9.  3.6 Error boundaries
-10. 
 
 
