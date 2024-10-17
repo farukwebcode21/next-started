@@ -1,3 +1,35 @@
+- [x] Task List under 
+- [x] 2.1 Create a NextJs app
+- [x] 2.2 Styling
+- [x] 2.3 Deploy your app
+- [x] 3.1 Pages and layouts
+- [x] 3.2 Navigation between pages
+- [ ] 3.3 Dynamic routes
+- [ ] 3.4 Route groups
+- [ ] 3.5 Suspense and streaming
+- [ ] 3.6 Error boundaries
+- [ ] 4.1 Server vs client componensts
+- [ ] 4.2 Static vs dynamic rendaring
+- [ ] 4.3 Edge vs Node runtimes
+- [ ] 5.1 Fetching
+- [ ] 5.2 Caching
+- [ ] 5.3 Revalidating
+- [ ] 5.4 Server actions
+- [ ] 5.5
+- [ ] 5.6 Migrating from Nextjs
+- [ ] 6.1 Image
+- [ ] 6.2 Fonts
+- [ ] 6.3 Scripts
+- [ ] 6.4 Metadata
+- [ ] 7.1 Route handler
+- [ ] 7.2 Middleware
+- [ ] 7.3 Internationalization
+- [ ] 7.4 Chain middleware
+- [ ] 8.1 NextAuth
+- [ ] 8.1 Clerk
+- [ ] 9.2 Setting up Typescript
+- [ ] 10.1 Ecommerce project 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -20,20 +52,18 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### Learning Path Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1.  2.1 Create a NextJs app
+2.  2.2 Styling
+3.  2.3 Deploy your app
+4.  3.1 Pages and layouts
+5.  3.2 Navigating between pages //Done
+6.  3.3 Dynamic routes
+7.  3.4 Route groups
+8.  3.5 Suspense and streaming
+9.  3.6 Error boundaries
+10. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## How to use crease single css file and how use
 
