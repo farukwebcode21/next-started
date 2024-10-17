@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 import NavLink from '../ui/NavLink'
+import ContactButton from '../ui/ContactButton'
 
 const Header = () => {
   return (
@@ -19,6 +20,7 @@ const Header = () => {
           <li>
             <NavLink href={'/contact'}>Contact</NavLink>
           </li>
+          <ContactButton />
         </ul>
       </nav>
     </header>
