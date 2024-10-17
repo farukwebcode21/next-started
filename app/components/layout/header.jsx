@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
+import NavLink from '../ui/NavLink'
 
 const Header = () => {
   return (
@@ -7,16 +8,16 @@ const Header = () => {
       <nav className='container'>
         <ul className='flex gap-4'>
           <li>
-            <Link href={'/'}>Home</Link>
+            <NavLink href={'/'}>Home</NavLink>
           </li>
           <li>
-            <Link href={'/about'}>About</Link>
+            <NavLink href={'/about'}>About</NavLink>
           </li>
           <li>
-            <Link href={'/about/team'}>Team</Link>
+            <NavLink href={'/about/team'}>Team</NavLink>
           </li>
           <li>
-            <Link href={'/contact'}>Contact</Link>
+            <NavLink href={'/contact'}>Contact</NavLink>
           </li>
         </ul>
       </nav>
