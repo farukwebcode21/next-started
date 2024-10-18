@@ -15,7 +15,7 @@ const Header = () => {
             <NavLink href={'/about'}>About</NavLink>
           </li>
           <li>
-            <NavLink href={'/about/team'}>Team</NavLink>
+            <NavLink href={'/team'}>Team</NavLink>
           </li>
           <li>
             <NavLink href={'/contact'}>Contact</NavLink>

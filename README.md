@@ -7,7 +7,7 @@
 - [x] 3.1 Pages and layouts
 - [x] 3.2 Navigation between pages
 - [ ] 3.3 Dynamic routes
-- [ ] 3.4 Route groups
+- [x] 3.4 Route groups
 - [ ] 3.5 Suspense and streaming
 - [ ] 3.6 Error boundaries
 - [ ] 4.1 Server vs client componensts
