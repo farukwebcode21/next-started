@@ -20,6 +20,9 @@ const CompanyLayout = ({ children }) => {
               <li>
                 <NavLink href={'/join'}>Join</NavLink>
               </li>
+              <li>
+                <NavLink href={'/posts/learn-nextjs'}>post</NavLink>
+              </li>
             </ul>
           </nav>
         </div>
